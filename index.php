@@ -1,35 +1,26 @@
-<?php
-/*
-* 2007-2014 PrestaShop
-*
-* NOTICE OF LICENSE
-*
-* This source file is subject to the Open Software License (OSL 3.0)
-* that is bundled with this package in the file LICENSE.txt.
-* It is also available through the world-wide-web at this URL:
-* http://opensource.org/licenses/osl-3.0.php
-* If you did not receive a copy of the license and are unable to
-* obtain it through the world-wide-web, please send an email
-* to license@prestashop.com so we can send you a copy immediately.
-*
-* DISCLAIMER
-*
-* Do not edit or add to this file if you wish to upgrade PrestaShop to newer
-* versions in the future. If you wish to customize PrestaShop for your
-* needs please refer to http://www.prestashop.com for more information.
-*
-*  @author PrestaShop SA <contact@prestashop.com>
-*  @copyright  2007-2014 PrestaShop SA
-*  @license    http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
-*  International Registered Trademark & Property of PrestaShop SA
-*/
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <title>Abby Sunderland | Abigail Sunderland | Wild Eyes | Youngest Solo Circumnavigator | Shoecity.com Sponsor</title>
+  <meta name="description" content="Abigail (“Abby”) Sunderland turned sixteen in October 2009. To the outward observer, she is a seemingly cleancut, All-American girl…the second of seven children. But inside of Abby, a passion burns. Since becoming a teenager, she has had her sights set on making history as the youngest person, male or female, to circumnavigate the world. Not only does she plan to accomplish this feat alone and unassisted, she plans to do it without once taking refuge on land. Aboard an Open 40 racing sailboat, Abby will embark on her voyage in December 2009 from Marina del Rey, California. By April 2010, Abby plans to have made history.">
+	<meta name="keywords" content="Abby Sunderland">
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  <meta http-equiv="Content-Language" content="en">
+  <meta name="google-site-verification" content="WOPxo6n5voZg0piUIlrdl9xo2q5G6vuuLvmIWNy6t6M" />
+  <link rel="stylesheet" type="text/css" href="includes/nsStyle.css">
+</head>
 
-header("Expires: Mon, 26 Jul 1997 05:00:00 GMT");
-header("Last-Modified: ".gmdate("D, d M Y H:i:s")." GMT");
+<body>
+<div align="center">
 
-header("Cache-Control: no-store, no-cache, must-revalidate");
-header("Cache-Control: post-check=0, pre-check=0", false);
-header("Pragma: no-cache");
+<? include_once('includes/top.php'); ?>
 
-header("Location: ../");
-exit;
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tr>
+				<td valign="top"><? include_once('includes/index-tshirt.php'); ?></td>
+				<td width="10"><span style="padding-left: 10px"></span></td>
+				<td width="300" valign="top"><? include_once('includes/index-right.php'); ?></td>
+			</tr>
+</table>
+
+<? include_once('includes/bottom.php'); ?>
